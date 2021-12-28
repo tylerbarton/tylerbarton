@@ -2,8 +2,8 @@
 
 #### I'm a Full-Stack developer from Chicago, IL
 
-- 🏢 I'm currently a student at UIUC
-- ⛴ I'm interested in machine-learning, data science, and networking
+- 🏢 I'm currently a senior at UIUC looking for a full-time software engineer position
+- ⛴ I'm interested in automation, machine-learning, data science, and networking
 - 💬 Ping me about **C#**, **Java**, **Python-flask framework**, **JavaScript**, **Angularjs**
 - 📫 Reach me: tylervbarton@gmail.com
 - 😄 Pronouns: He/Him
