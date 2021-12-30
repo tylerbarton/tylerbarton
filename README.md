@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently a senior at UIUC looking for a full-time software engineer position
 - ⛴ I'm interested in automation, machine-learning, data science, and networking
-- 💬 Ping me about **C#**, **Java**, **Python-flask framework**, **JavaScript**, **Angularjs**
+- 💬 Ping me about **C#**, **Java**, **Python-flask framework**, **Data Analysis**
 - 📫 Reach me: tylervbarton@gmail.com
 - 😄 Pronouns: He/Him
 
