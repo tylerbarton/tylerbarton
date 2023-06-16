@@ -1,4 +1,4 @@
-# Hello 🙏🏽
+# Hello
 
 #### I'm a Full-Stack developer from Chicago, IL
 
@@ -6,7 +6,6 @@
 - ⛴ I'm interested in automation, machine-learning, data science, and networking
 - 💬 Ping me about **C#**, **Java**, **Python-flask framework**, **Data Analysis**
 - 📫 Reach me: tylervbarton@gmail.com
-- 😄 Pronouns: He/Him
 
 ---
 <div>
